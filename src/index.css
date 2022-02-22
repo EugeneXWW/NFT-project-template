@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+:root {
+  --c-bg-color: #F0F1F5;
+	--c-name-color: #707070;
+	--c-title-color: #B4B8BE;
+}
+
+.page-margin {
+  margin: 20 150;
+}
